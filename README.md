@@ -20,6 +20,10 @@ Create a self-contained HTML report:
 ```powershell
 pytest -v --html=report.html --self-contained-html
 ```
+Sample Report
+`
+https://github.com/xanexerr/api-lab/blob/main/report.html
+`
 
 ## Test coverage
 
