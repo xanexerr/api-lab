@@ -22,7 +22,7 @@ pytest -v --html=report.html --self-contained-html
 ```
 
 My Report:
-<a href="https://github.com/xanexerr/api-lab/blob/main/report.html" target="_blank">Open My Report Here!</a>
+<a href="https://xanexerr.github.io/api-lab/report.html?sort=result" target="_blank">Open My Report Here!</a>
 
 
 ## Findings
