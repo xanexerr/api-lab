@@ -1,7 +1,5 @@
 # API Lab: QuickPizza
 
-Individual API testing lab for ITDS362 using Python, `requests`, and `pytest`.
-
 ## Setup
 
 Requirements: Python 3.10 or newer, Git, and `curl.exe` on Windows.
@@ -19,7 +17,6 @@ pytest -v
 ```
 
 Create a self-contained HTML report:
-
 ```powershell
 pytest -v --html=report.html --self-contained-html
 ```
