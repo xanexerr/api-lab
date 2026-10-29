@@ -21,7 +21,7 @@ Create a self-contained HTML report:
 pytest -v --html=report.html --self-contained-html
 ```
 `
-<a href="[https://google.com](https://github.com/xanexerr/api-lab/blob/main/report.html)" target="_blank">Open My Report Here!</a>
+<a href="https://github.com/xanexerr/api-lab/blob/main/report.html" target="_blank">Open My Report Here!</a>
 `
 
 | Characteristic | Blocks and test values | Test coverage |
